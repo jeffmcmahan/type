@@ -3,7 +3,7 @@
 ## Example
 
 ```js
-import {type} from 'jeffmcmahan/type'
+import {type} from '@jeffmcmahan/type'
 
 const foo = (id, name, data) => {
 
